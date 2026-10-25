@@ -10,4 +10,6 @@ Currently learning: Python, on a 12-week plan running until the end of December 
 
 IT security basics: TryHackMe (I hold the SEC1 certificate) and a small homelab I run as a hobby.
 
+2nd Place at Cloudflight Coding Contest 2026 (HTL Krems)
+
 Tools I use: Python · JavaScript · C# · HTML/CSS · Git · Linux · Windows · networking basics

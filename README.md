@@ -6,10 +6,16 @@ I'm an IT student at HTL Krems in Austria (3rd year). I'm interested in cybersec
 
 Currently learning: Python, on a 12-week plan running until the end of December 2026: one topic a week, one small project every weekend. Everything goes into python-journey.
 
+## Certificates ##
+
+SEC1 (TryHackMe)
+
+Currently doing the SAL1 Certificate.
+
 ## My Skills ##
 
-IT security basics: TryHackMe (I hold the SEC1 certificate) and a small homelab I run as a hobby.
+IT security basics: A small homelab I run as a hobby.
 
 2nd Place at Cloudflight Coding Contest 2026 (HTL Krems)
 
-Tools I use: Python · JavaScript · C# · HTML/CSS · Git · Linux · Windows · networking basics
+Tools I use: Python · JavaScript · C# · HTML/CSS · Git · Linux · Windows · Networking · SQL

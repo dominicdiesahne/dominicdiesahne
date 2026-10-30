@@ -11,7 +11,10 @@
 ### 🚀 About Me
 
 I'm an IT student at HTL Krems in Austria (3rd year). I'm interested in cybersecurity and I'm learning it step by step. I have no professional IT or security experience yet. I want to learn, and this profile is where I keep my progress. I also run a small Homelab as a hobby.  
-Certificates: SEC1 (TryHackMe), Python Developer (freeCodeCamp)
+#### Certificates #### 
+
+- SEC1 (TryHackMe)
+- Python Developer (freeCodeCamp)
 
 🔭 &nbsp;I'm currently working on **the SAL1 certificate**  
 🌱 &nbsp;I'm currently learning **SQL**  
